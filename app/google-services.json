@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "376741931649",
+    "firebase_url": "https://myfirebasedbapp-d03db.firebaseio.com",
+    "project_id": "myfirebasedbapp-d03db",
+    "storage_bucket": "myfirebasedbapp-d03db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376741931649:android:fb5c01f4a5010849",
+        "android_client_info": {
+          "package_name": "com.example.sunita.myfirebasedbapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376741931649-mkrqjrakqh5dhfs5isv3i0p6i7vinb4k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sunita.myfirebasedbapp",
+            "certificate_hash": "ba63632c1a94057150cd97da8143c00617a3118e"
+          }
+        },
+        {
+          "client_id": "376741931649-uedvv9i6sibfmljqv6ub14meopgu8lam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgjp75F_-S-OQagURHUOo1GEPR3GPjOgI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376741931649-uedvv9i6sibfmljqv6ub14meopgu8lam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
